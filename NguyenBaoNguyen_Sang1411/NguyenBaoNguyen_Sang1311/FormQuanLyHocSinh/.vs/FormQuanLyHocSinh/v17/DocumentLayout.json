@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\dafrmtthocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|solutionrelative:dafrmtthocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\dafrmtthocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|solutionrelative:dafrmtthocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\dafrmnhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|solutionrelative:dafrmnhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|d:\\doanquanlyhocsinhthpt\\nguyenbaonguyen_sang1411\\nguyenbaonguyen_sang1311\\formquanlyhocsinh\\dafrmnhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|solutionrelative:dafrmnhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C56F2DC-7BA6-4952-A01C-F79F06E383F9}|FormQuanLyHocSinh.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAfrmNhapdiem.cs",
+              "DocumentMoniker": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmNhapdiem.cs",
+              "RelativeDocumentMoniker": "DAfrmNhapdiem.cs",
+              "ToolTip": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmNhapdiem.cs",
+              "RelativeToolTip": "DAfrmNhapdiem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:57:01.863Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAfrmNhapdiem.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmNhapdiem.cs",
+              "RelativeDocumentMoniker": "DAfrmNhapdiem.cs",
+              "ToolTip": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmNhapdiem.cs [Design]",
+              "RelativeToolTip": "DAfrmNhapdiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:54:07.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAfrmTTHocSinh.cs",
+              "DocumentMoniker": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmTTHocSinh.cs",
+              "RelativeDocumentMoniker": "DAfrmTTHocSinh.cs",
+              "ToolTip": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmTTHocSinh.cs",
+              "RelativeToolTip": "DAfrmTTHocSinh.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAwwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:02:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAfrmTTHocSinh.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmTTHocSinh.cs",
+              "RelativeDocumentMoniker": "DAfrmTTHocSinh.cs",
+              "ToolTip": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\DAfrmTTHocSinh.cs [Design]",
+              "RelativeToolTip": "DAfrmTTHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:02:31.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DoAnQuanlyHocSinhTHPT\\NguyenBaoNguyen_Sang1411\\NguyenBaoNguyen_Sang1311\\FormQuanLyHocSinh\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:37:04.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
